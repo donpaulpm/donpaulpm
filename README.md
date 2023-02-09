@@ -74,4 +74,7 @@ I am a developer, network/hardware enthusiast, leader, electronic (iOT) hobbyist
 ### [YouTube](https://www.youtube.com/@donpaulpm)
 ### [Twitter](https://twitter.com/don_paul_pm)
 ### [Instagram](https://www.instagram.com/donpaulpm)
-### ![donpaulpm](https://www.linkedin.com/in/donpaulpm/)
+### [linkedin](https://www.linkedin.com/in/donpaulpm/)
+
+
+### [![Instagram](/icons/i.png)](https://www.instagram.com/donpaulpm)
