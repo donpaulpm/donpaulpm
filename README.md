@@ -71,15 +71,11 @@ I am a developer, network/hardware enthusiast, leader, electronic (iOT) hobbyist
 
 ## Additional Links
 
-### [YouTube](https://www.youtube.com/@donpaulpm)
-### [Twitter](https://twitter.com/don_paul_pm)
-### [Instagram](https://www.instagram.com/donpaulpm)
-### [linkedin](https://www.linkedin.com/in/donpaulpm/)
+### [<img width=50 src="/icons/l.png" alt="Linkedin" />](https://www.linkedin.com/in/donpaulpm)
 
-### [<img width=50 src="/icons/i.png"/>](https://www.linkedin.com/in/donpaulpm/)
+### [<img width=50 src="/icons/i.png" alt="Instagram" />](https://www.instagram.com/donpaulpm)
 
+### [<img width=50 src="/icons/t.png" alt="Twitter" />](https://twitter.com/don_paul_pm)
 
-### [![Instagram](<img width=10 src="/icons/i.png"/>)](https://www.instagram.com/donpaulpm)
+### [<img width=50 src="/icons/y.png" alt="YouTube" />](https://www.youtube.com/@donpaulpm)
 
-### <a href="https://www.instagram.com/donpaulpm" target="_blank"><img src="/icons/i.png" 
-alt="Instagram" width="12" height="12" /></a>
