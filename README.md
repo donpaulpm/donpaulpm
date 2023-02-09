@@ -78,3 +78,6 @@ I am a developer, network/hardware enthusiast, leader, electronic (iOT) hobbyist
 
 
 ### [![Instagram](<img width=10 src="/icons/i.png"/>)](https://www.instagram.com/donpaulpm)
+
+### <a href="https://www.instagram.com/donpaulpm" target="_blank"><img src="/icons/i.png" 
+alt="Instagram" width="12" height="12" /></a>
